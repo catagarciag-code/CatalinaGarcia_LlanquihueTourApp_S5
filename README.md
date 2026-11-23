@@ -24,7 +24,7 @@ El sistema procesa dinámicamente registros cargados desde un archivo plano (`gu
 * **Manejo de Excepciones:** Control de lectura de archivos y parseo numérico con bloques `try-catch` (`IOException`, `NumberFormatException`).
 * **Colecciones Dinámicas:** Gestión de datos en memoria utilizando la estructura `ArrayList`.
 ---
-## 🧱 Estructura general del proyecto
+## 🗂️ Estructura general del proyecto
 
 ```plaintext
 📁 src/
