@@ -33,4 +33,16 @@ El sistema procesa dinámicamente registros cargados desde un archivo plano (`gu
 ├── service/     # Lógica de negocio, gestión de ArrayList y filtros (ServicioTour.java)
 ├── util/        # Utilidades de lectura de archivos planos con BufferedReader (LectorArchivos.java)
 └── resources/   # Archivos planos de datos delimitados por punto y coma (guia.txt)
----
+```
+## 💻 Requisitos y Ejecución
+- **Lenguaje:** Java (JDK 17 o superior)
+- **IDE Recomendado:** Apache NetBeans / IntelliJ IDEA
+- **Gestor de versiones:** Git / GitHub
+
+### Pasos para ejecutar:
+1. **Clonar o descargar el repositorio:**
+```bash
+git clone <>
+```
+# 📹 Video Explicativo
+Enlace al video: []
