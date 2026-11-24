@@ -45,4 +45,4 @@ El sistema procesa dinámicamente registros cargados desde un archivo plano (`gu
 git clone <>
 ```
 # 📹 Video Explicativo
-Enlace al video: []
+Enlace al video: [https://drive.google.com/file/d/1-1FxHuNmZYQoiDPpUgQkr9Q3CAw9CjU1/view?usp=sharing]
