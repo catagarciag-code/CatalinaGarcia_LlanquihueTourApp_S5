@@ -1,0 +1,6 @@
+Teatro del Lago en Frutillar;Cultural;16000;Camila Rojas;Visita guiada cultural
+Trekking Volcan Osorno;Aventura;35000;Mateo Silva;Guiado de montaña
+Navegacion Todos los Santos;Lacustre;40000;Valentina Soto;Paseo en embarcacion
+Ruta Gastronomica Llanquihue;Gastronomico;15000;Diego Morales;Degustacion local
+Paseo Lacustre Lago Llanquihue;Lacustre;25000;Fernanda Perez;Navegacion costera
+Excursion Cultural Frutillar;Cultural;18000;Tomas Herrera;Recorrido patrimonial
