@@ -42,7 +42,7 @@ El sistema procesa dinámicamente registros cargados desde un archivo plano (`gu
 ### Pasos para ejecutar:
 1. **Clonar o descargar el repositorio:**
 ```bash
-git clone <>
+git clone <https://github.com/catagarciag-code/CatalinaGarcia_LlanquihueTourApp_S5.git>
 ```
 # 📹 Video Explicativo
 Enlace al video: [https://drive.google.com/file/d/1-1FxHuNmZYQoiDPpUgQkr9Q3CAw9CjU1/view?usp=sharing]
